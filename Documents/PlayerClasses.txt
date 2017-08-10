@@ -2,13 +2,30 @@
 ## Player classes
 
 ### Witch/Warlock
-Obsessed with the shadow plane, witches and warlocks summon the darkest of
-beings from its realm.
-* Summons short-duration situational pets.
+Obsessed with the shadow plane, witches and warlocks are terrifying warriors and
+dabblers in the dark powers that be.
 * Able to walk the shadow realm, phasing into a dark version of the world.
 * Can drag their party members to the shadow realm.
 * Can banish enemies to the shadow realm for a short period.
-* Debuffer caster
+* Debuffer melee
+* Two handed: Melee with debuff auras and stealth.
+* One handed and scepter/staff/globus: Melee with powerful targeted debuffs and stealth.
+* Can percieve unseen threats
+* Can bypass certain barriers through the shadow plane.
+
+### Cultist
+Worshippers of the Outer Beings, cultists commune with and conjure blasphemous
+creatures to appease their masters and themselves.
+* Pet class
+    * Cultist pets have no right to exist in this world, and are short duration and situational.
+* Dark caster, focus on debuffs and CC
+* Health play/ sacrificial magic for powerful effects
+    * Can summon a mighty creature with a ritual
+    * Can disable magical barriers with bloodletting magic
+* Can understand the strange language of the outer beings.
+* Their horrid incantations and familiars drive the common populace to madness.
+  Cultists will be killed on site if caught using their powers in towns, for
+  they pervert God's plan.
 
 ### Dame/Knight
 Dames and knights are the protectors of the world. Using heavy armor and
@@ -19,6 +36,13 @@ shields, they are the front lines of any battle force.
 * Two-handed play makes them a deadly force on the battlefield
 * Slow moving but unstoppable
 * Very strong against unarmored.
+* Sworn to the lord of the land, Knights and Dames get special regional perks
+    # Examples:
+    * May get a "key to the realm", opening some special unpickable locks
+    * May get a talisman that lets them communicate with certain beings
+    * Fealty to the lord of the elven country may give them and their party passage through elven paths/camps
+    * May get a heraldry that gives bonus protection against certain attacks
+    * Knighthood may grant the party temporary mounts
 
 ### Amazon/Barbarian
 Amazons and barbarians wield the deadliest weapons, and forgo heavy armors for
@@ -27,16 +51,18 @@ lightweight garb, making them extremely agile.
 * Two-handed for slow burst, dual one-handed for sustained pressure
 * Fast and mobile but fragile
 * Very strong against armored.
+* Can lift/push heavy objects to reveal secrets or bypass barriers.
 
 ### Cleric
 Clerics are garbed in chain armor, wielding maces, torches, and shields. They
-are sword to defeating the forces of darkness, be it by aiding their allies or
+are sworn to defeat the forces of darkness, be it by aiding their allies or
 taking things into their own hands.
 * Focused on party support, buffing, healing, recharging mana, and tanking.
 * Able to focus on party management, with low complexity in damage-dealing.
 * Very formidable damage, using holy magic and melee weapons.
 * Able to off-tank large pulls, cast passive heals.
 * Very strong against undead and otherworldly.
+* Can exorcise cursed objects/entities and cleanse shrines.
 
 ### Sorceress/Sorcerer
 Powerful magicians, sorceresses and sorcerers are able to control elemental
@@ -45,6 +71,7 @@ magics, and heal themselves and their allies.
 * Focused on control, damage, and healing.
 * No DoTs or HoTs, everything direct.
 * Teleportation, flight, telekenisis, and other utility spells.
+* Loremaster, can decipher earthly texts in other languages, or interpret tapestries
 
 ### Adventurer
 Bowmen, thieves, and hunters. Adventurers always seem to find their way. Packing
