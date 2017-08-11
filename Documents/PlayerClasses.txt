@@ -18,7 +18,7 @@ Worshippers of the Outer Beings, cultists commune with and conjure blasphemous
 creatures to appease their masters and themselves.
 * Pet class
     * Cultist pets have no right to exist in this world, and are short duration and situational.
-* Dark caster, focus on debuffs and CC
+* Dark caster, focus on debuffs, DoT, and CC
 * Health play/ sacrificial magic for powerful effects
     * Can summon a mighty creature with a ritual
     * Can disable magical barriers with bloodletting magic
@@ -45,13 +45,14 @@ shields, they are the front lines of any battle force.
     * Knighthood may grant the party temporary mounts
 
 ### Amazon/Barbarian
-Amazons and barbarians wield the deadliest weapons, and forgo heavy armors for
+Amazons and barbarians wield the deadliest weapons, and forgoe heavy armors for
 lightweight garb, making them extremely agile.
 * Fury warrior/Combat rogue class
 * Two-handed for slow burst, dual one-handed for sustained pressure
 * Fast and mobile but fragile
 * Very strong against armored.
 * Can lift/push heavy objects to reveal secrets or bypass barriers.
+* Can understand verbal utterings of primitive creatures.
 
 ### Cleric
 Clerics are garbed in chain armor, wielding maces, torches, and shields. They
